@@ -33,7 +33,7 @@ ul {
 header {
 	background:  #35424a;
 	color: #fff;
-	padding-top: 30px;
+	/* padding-top: 30px; */
 	min-height: 70px;
 	border-bottom: #e8491d 3px solid;
 }
@@ -62,7 +62,7 @@ header #brand h1 {
 
 header nav {
 	float: right;
-	margin-top: 10px;
+	margin-top: 22px;
 }
 
 header .brand-main, header .active a{
